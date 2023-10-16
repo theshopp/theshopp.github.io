@@ -3,8 +3,8 @@
       src: url("/style/fonts/Freedom-10eM.ttf") format("truetype");
   }
      @font-face {
-    font-family: "codebrr";
-      src: url("/style/fonts/Monocode.ttf") format("truetype");
+    font-family: "bigdick";
+      src: url("/style/fonts/SimpleGrunge-p7aDD.otf") format("opentype");
   }
       
       h1{
@@ -20,22 +20,22 @@
           background-color:rgb(39, 39, 39);
         }
       p1 {
-          font-family: "codebrr", monospace;
+          font-family: "bigdick", monospace;
           color: #fff;
         
       }
       p2 {
-          font-family: "codebrr", monospace;
+          font-family: "bigdick", monospace;
           color: #fff;
     
       }
       p3 {
-          font-family: "codebrr", monospace;
+          font-family: "bigdick", monospace;
           color: #fff;
           
       }
       p4 {
-          font-family: "codebrr", monospace;
+          font-family: "bigdick", monospace;
           color: #fff;
           
       }
