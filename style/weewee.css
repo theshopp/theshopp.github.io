@@ -120,7 +120,7 @@
          color: #00ff95;
       }
       #baja {
-         /*position:relative; left:-150px; top:-405px; width:400px; height:400px;*/
+         position:relative; top: -900;
       }
       #code {
          /*position:relative; left:150px; top:-405px; width:400px; height:400px;*/
